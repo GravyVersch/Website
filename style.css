@@ -1,0 +1,50 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0; 
+ }
+ 
+ #top {
+     text-align: center;
+ }
+ 
+     #logo {
+         color:white;
+         background-color: rgb(228, 58, 46);
+         display: inline-block;
+         font-size: 32px;
+         font-weight: bold;
+         padding: 8px;
+         margin-top: 16px;
+     }
+ 
+ #logo-name {
+     font-size: 32px;
+     font-weight: bold;
+     margin: 16px;
+ }
+
+ #navigation a {
+     color: black;
+     padding: 8px;
+ }
+
+ #navigation a:hover {
+     color: rgb(228, 58, 46);
+ }
+
+ #image img {
+     width: 100%;
+     margin-top: 16px;
+     margin-bottom:16px;
+ }
+
+ #main {
+     max-width: 800px;
+     margin: auto;
+ }
+
+ #footer {
+     text-align: center;
+    color: gray;
+    padding: 16px; 
+ }
